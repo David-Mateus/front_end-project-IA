@@ -69,14 +69,14 @@ const EmotiKids = () => {
       <div className="absolute inset-0 opacity-20">
         <div className="absolute top-20 left-10 text-6xl animate-float">🎉🎈🧩</div>
         <div className="absolute top-40 right-20 text-6xl animate-float" style={{ animationDelay: '1s' }}>🧩🍭🍬</div>
-        <div className="absolute bottom-40 left-20 text-6xl animate-float" style={{ animationDelay: '2s' }}>🌈🧩💌</div>
+        <div className="absolute bottom-40 left-20 text-6xl animate-float" style={{ animationDelay: '2s' }}>🌈🧩🌻</div>
       </div>
 
       <div className="relative z-10 flex flex-col min-h-screen">
         {/* Header */}
         <header className="text-center py-8">
           <h1 className="text-4xl md:text-5xl font-bold text-secondary mb-2">
-            AutisIAKids
+            EmojiKids
           </h1>
           <p className="text-lg text-muted-foreground">
             Descubra como você está se sentindo.
