@@ -25,4 +25,4 @@ O **EmojiKids** tem como objetivo aplicar técnicas de **Processamento de Lingua
 ## 🛠️ Como Executar o Projeto
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/David-Mateus/emojiKids.git
+   git clone https://github.com/David-Mateus/front_end-project-IA.git
